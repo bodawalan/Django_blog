@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"E",
+				"Email"
+			],
+			[
+				"co",
+				"connect_db"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"w3",
+				"w3schools"
+			],
+			[
+				"w",
+				"w3schools"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"var",
+				"var2"
+			],
+			[
+				"input",
+				"input_number"
+			],
+			[
+				"st",
+				"string_1"
+			],
+			[
+				"fo",
+				"formatter"
+			],
+			[
+				"ch",
+				"ch2"
+			],
+			[
+				"joke",
+				"joke_evaluation"
+			],
+			[
+				"my",
+				"my_age"
+			],
+			[
+				"a",
+				"average_passengers_per_car"
+			],
+			[
+				"ca",
+				"carpool_capacity"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"d",
+				"drivers"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nishit/Desktop/database/db1.py",
+		"/Users/nishit/Desktop/My_blog/My_profile/models.py",
+		"/Users/nishit/Desktop/Django_project/myblog/my_profile/migrations/__init__.py",
+		"/Users/nishit/Downloads/MySQL-python-1.2.4b4/setup_posix.py",
+		"/Users/nishit/Desktop/database/MySQL-python-1.2.3/setup.py",
+		"/Users/nishit/Desktop/Python_learning/connect_db.py",
+		"/Users/nishit/Desktop/Assignment_1/que_4.py",
+		"/Users/nishit/Desktop/Python_learning/External.css",
+		"/Users/nishit/Desktop/Python_learning/Html_basic.html",
+		"/Users/nishit/Desktop/Pycharm_Ex/que_4.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/que_3.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/upper.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/Exeleven.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/Exten.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/Exnine.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/Exeight.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/Exseven.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/Exsix.py",
+		"/Users/nishit/Desktop/Pycharm_Ex/Ex_csv/csv.py",
+		"/Users/nishit/Desktop/Py_Exe/Exfive.py",
+		"/Users/nishit/Desktop/Py_Exe/Exfour.py",
+		"/Users/nishit/Desktop/PythonExcercise/Exone.py",
+		"/Users/nishit/Desktop/PythonExcercise/Extwo.py",
+		"/Users/nishit/Desktop/Py_Exe/Exthree.py",
+		"/project/hello.py",
+		"/project"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

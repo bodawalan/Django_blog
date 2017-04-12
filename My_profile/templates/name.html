@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<table>
+	{% for con in contact %}
+	<h1> {{con}} </h1>
+	{% endfor %}
+</table>
+
+<table>
+	{% for add in address %}
+	<h1> {{add}} </h1>
+	{% endfor %}
+</table>
+
+ <table>
+	{% for nameing in name %}
+	<h1> {{nameing}} </h1>
+	{% endfor %}
+</table>
+
+</body>
+</html>
